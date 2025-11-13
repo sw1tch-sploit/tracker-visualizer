@@ -25,3 +25,7 @@ A brutalist web-based tracker interface that renders, visualizes, and exports fu
 - Native **MediaRecorder API** for video capture  
 
 ---
+
+
+
+💀 **BE CAREFUL — REAL SHITCODE INSIDE!**
